@@ -1,6 +1,6 @@
 package com.crm.mohabharat;
 
-public class Mahabharat {
+public class MahabharatTest {
 
 	public static void main(String[] args) {
 		System.out.println("mahabharat");
